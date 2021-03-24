@@ -1,3 +1,5 @@
+#following Udemy course: 100 days of code by Angela Yu
+
 number = int(input ('Please enter an intger?\n'))
 x=number%2
 if x==0:
